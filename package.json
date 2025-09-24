@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/dolorem-cumque-ullam-earum",
-  "version": "19.46.455",
+  "version": "19.46.456",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -827,5 +827,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/dolorem-cumque-ullam-earum/issues"
   },
-  "packageManager": "yarn@4.10.2"
+  "packageManager": "yarn@4.10.3"
 }
